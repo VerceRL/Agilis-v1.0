@@ -115,6 +115,10 @@ That is basically it for what Agilis is able to do automatically for you. If you
    
    To install more maps just run the Launcher again. Agilis will see that you already have the required software and go straight to getting your maps setup properply in the right directories. So when you run Agilis for the first time it is basically a setup script but then after it becomes a tool for quickly installing more custom maps.
    
-2. **What's the best way to contact you?**
+2. **Where am I supposed to get the map links that Agilis requires?**
+   
+   Whether you play on Steam or on the Epic Games launcher you can access the [Steam Workshop](https://steamcommunity.com/app/252950/workshop/) online and browse what the community has made! Find a map that you want to download? Paste the link into Agilis!
+
+3. **What's the best way to contact you?**
    
    You can message me on Discord @Verce#5680 I'd be happy to answer questions, help troubleshoot, and hear your suggestions!
