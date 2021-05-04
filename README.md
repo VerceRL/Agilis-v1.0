@@ -107,7 +107,7 @@ That is basically it for what Agilis is able to do automatically for you. If you
 
 + If steamworkshopdownloader.io is not finding your map try pasting the URL manually when Agilis asks you to, if that still doesn't work please double-check your link is correct in another tab.
 
-+ If none of the above works try getting out of Platinum :)
++ If none of the above work, try getting out of Platinum :)
 
 ## Frequently Asked Questions
 
