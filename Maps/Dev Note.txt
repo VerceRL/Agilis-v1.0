@@ -1,0 +1,6 @@
+All map files downloaded through this script are brought to this folder. Then the .udk file is renamed to .upk
+and moved into your "rocketleague\TAGame\CookedPCConsole" where either a "mods" or "rocketplugin" folder is 
+added to store all the .upk files. This folder only stores the rest of the map files that aren't required.
+
+Do not manually install maps by adding them to this folder. Just run the script each time you want to 
+add a new map.
