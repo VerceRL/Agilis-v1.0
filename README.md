@@ -13,7 +13,7 @@ Python script to automate the setup of multiplayer custom workshop maps in Rocke
 
 # About Agilis
 
-I coded this script in about a week after my first experience trying out custom multiplayer workshop maps in Rocket League. I had a great experience playing the custom maps with my friends but I thought the setup process was a bit overcomplicated and that it could be a barrier for people who want to try it out for the first time but don't know how to get started. I don't have much experience coding projects like this but I'll be happy if it helps at least one person get started with multiplayer custom workshop maps.
+I coded this script in about a week after my first experience trying out custom multiplayer workshop maps in Rocket League. I had a great experience playing the custom maps with my friends but I thought the setup process was a bit overcomplicated and that it can be a barrier for people who want to try it out for the first time but don't know how to get started. I don't have much experience coding projects like this but I'll be happy if it helps at least one person get started with multiplayer custom workshop maps.
 
 ## Functionality
 
