@@ -44,7 +44,7 @@ Literally the point of me making this script was to make it as easy as possible 
    
 3. Open the new folder and double-click '_STEP 1 - CLICK "ADD PYTHON TO PATH".exe' This is the installer for the latest version of Python. ***It is very important you click the checkbox "Add Python 3.9 to PATH"*** Then you can click "Install Now" to finish Python setup.
 
-   [Python Install](https://github.com/VerceRL/Agilis-v1.0/blob/main/Resources/Github/pythonPath.PNG).
+   ![Python Install](https://github.com/VerceRL/Agilis-v1.0/blob/main/Resources/Github/pythonPath.PNG)
    
 4. After Python has finished installing double-click '_STEP 2 - RUN.bat' This will install the required Python modules used in Agilis. When that is finished we should get a message letting us know we are ready to use the Launcher! Go ahead and double-click "Launcher" to run Agilis for the first time!
    
@@ -101,13 +101,13 @@ That is basically it for what Agilis is able to do automatically for you. If you
 
 ## Troubleshooting
 
-+ If your "Launcher" shortcut isn't working right-click it, select "Properties" and double-check that the target path is correct or that your Agilis folder is named properly  and placed in "Downloads"
++ If your "Launcher" shortcut isn't working right-click it, select "Properties" and double-check that the target path is correct. Also check that your Agilis folder is named properly and placed in "Downloads"
 
 + If Agilis isn't running with administrative privileges make sure you are using the "Launcher"
 
 + If steamworkshopdownloader.io is not finding your map try pasting the URL manually when Agilis asks you to, if that still doesn't work please double-check your link is correct in another tab.
 
-+ If none of the above work try getting out of Platinum :)
++ If none of the above works try getting out of Platinum :)
 
 ## Frequently Asked Questions
 
